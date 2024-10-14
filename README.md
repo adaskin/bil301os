@@ -41,7 +41,7 @@ This course introduces students to the concepts of operating systems and provide
 1. Chapter 1: Introduction  [⟶1intro.pdf](lectures/1intro.pdf) 
 2. Chapter 2: Operating System Services-structures-linkers/loaders  [⟶2services-structs.pdf](lectures/2services-structs.pdf) 
 3. Chapter 3: Processes     [⟶3processes.pdf](lectures/3processes.pdf) 
-4. Chapter 4: Threads & Concurrency    
+4. Chapter 4: Threads & Concurrency   [⟶3concurrency-threads.pdf](lectures/4concurrency-threads.pdf)   
 5. Chapter 5: CPU Scheduling    
 6. Chapter 5, 6-7: CPU Scheduling\-II, Intro to Synchronization Tools & Examples    
 7.  (not included in the book) Synchronization II (atomic instructions, memory barriers (e.g., mb, fence, volatile), C11 atomic library (relaxed, acquire, release), lock free programming, cache coherency,)    
