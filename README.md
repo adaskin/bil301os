@@ -2,7 +2,7 @@
 title: ammar daskin - Operating Systems (Fall 2024 at Istanbul Medeniyet University)
 ---
 
-[⟶Lecture Notes](#weekly-topics)
+[⟶Lecture Notes](#weekly-topics-and-lecture-notes)
 
 
 
