@@ -37,12 +37,15 @@ This course introduces students to the concepts of operating systems and provide
     *   [https://linux-kernel-labs.github.io/refs/heads/master/index.html](https://linux-kernel-labs.github.io/refs/heads/master/index.html)         
     *   Testing Linux: [https://linux-test-project.github.io/](https://linux-test-project.github.io/)
         
-## Weekly topics
+## Weekly topics and lecture notes
 1. Chapter 1: Introduction  [⟶1intro.pdf](lectures/1intro.pdf) 
 2. Chapter 2: Operating System Services-structures-linkers/loaders  [⟶2services-structs.pdf](lectures/2services-structs.pdf) 
 3. Chapter 3: Processes     [⟶3processes.pdf](lectures/3processes.pdf) 
-4. Chapter 4: Threads & Concurrency   [⟶3concurrency-threads.pdf](lectures/4concurrency-threads.pdf)   
-5. Chapter 5: CPU Scheduling    
+4. Chapter 4: Threads & Concurrency   [⟶4concurrency-threads.pdf](lectures/4concurrency-threads.pdf)   
+5. Chapter 5: CPU Scheduling    [⟶5cpu-scheduling.pdf](lectures/5cpu-scheduling.pdf) 
+   - some readings: 
+     - [Old CFS load balancing issues on multicore](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
+     - [New Linux Scheduler](https://docs.kernel.org/scheduler/sched-eevdf.html)
 6. Chapter 5, 6-7: CPU Scheduling\-II, Intro to Synchronization Tools & Examples    
 7.  (not included in the book) Synchronization II (atomic instructions, memory barriers (e.g., mb, fence, volatile), C11 atomic library (relaxed, acquire, release), lock free programming, cache coherency,)    
 8.  Midterm exam    
