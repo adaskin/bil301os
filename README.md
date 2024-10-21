@@ -46,10 +46,13 @@ This course introduces students to the concepts of operating systems and provide
    - some readings: 
      - [Old CFS load balancing issues on multicore](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
      - [New Linux Scheduler](https://docs.kernel.org/scheduler/sched-eevdf.html)
-6. Chapter 5, 6-7: CPU Scheduling\-II, Intro to Synchronization Tools & Examples    
+6. Chapter 5, 6-7: CPU Scheduling\-II, Intro to Synchronization 
+    [⟶6synchronization-intro.pdf](lectures/6synchronization-intro.pdf) 
 7.  (not included in the book) Synchronization II (atomic instructions, memory barriers (e.g., mb, fence, volatile), C11 atomic library (relaxed, acquire, release), lock free programming, cache coherency,)    
+    [⟶7synchronization-II.pdf](lectures/7synchronization-II.pdf)
 8.  Midterm exam    
-9.  Synchronization review, Deadlocks    
+9.  Synchronization review, Deadlocks  
+    [⟶8synchronization-review.pdf](lectures/8synchronization-review.pdf)  
 10.  Chapter 9: Main Memory    
 11.  Chapter 10: Virtual Memory    
 12.  Chapter 11-12: I/O Systems    
