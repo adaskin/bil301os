@@ -23,8 +23,6 @@ This course introduces students to the concepts of operating systems and provide
     *   [https://www.scs.stanford.edu/24wi-cs212/notes/](https://www.scs.stanford.edu/24wi-cs212/notes/)         
     *   [https://www.os-book.com/OS10/slide-dir/index.html](https://www.os-book.com/OS10/slide-dir/index.html)         
     *   and [https://linux-kernel-labs.github.io/](https://linux-kernel-labs.github.io/) 
-        
-    *   weekly posted on classroom.google.com before the lecture.         
 * ### Other resources
     *   [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)         
     *   [intel CPU manual](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)         
