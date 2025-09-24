@@ -1,5 +1,5 @@
 ---
-title: ammar daskin - Operating Systems (Fall 2024 at Istanbul Medeniyet University)
+title: ammar daskin - Operating Systems (Fall 2025 at Istanbul Medeniyet University)
 ---
 
 [⟶Lecture Notes](#weekly-topics-and-lecture-notes)
