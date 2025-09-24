@@ -9,10 +9,8 @@ title: ammar daskin - Operating Systems (Fall 2024 at Istanbul Medeniyet Univers
 Wednesday  8:30 pm @B501
 
 Basic C and systems programming skills are required: 
-*   BIL 121 C Programming,      
-*   BIL 222 System Programming in Linux,      
-*   BIL 201 Data Structure and Algorithms    
-*  you are expected to have prior system programming experience in Linux with C and basic understanding of data structure and algorithms. 
+*   C Programming,   A little Unix or Linux,   Data Structure and Algorithms    
+*  you are expected to have prior programming experience in Linux with C and basic understanding of data structure and algorithms. 
 
 This course introduces students to the concepts of operating systems and provides them with a solid understanding of what operating systems are and what they do and their principles.  This course puts particular emphasis on concurrency and synchronization tools and their implementations.  During the semester, in addition to weekly lectures and lab sessions, there will be programming assignments (mostly in Linux) and in class quizzes. It is crucial for you to follow weekly lectures to learn the material and complete the assignments. 
 
