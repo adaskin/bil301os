@@ -6,7 +6,7 @@ title: ammar daskin - Operating Systems (Fall 2024 at Istanbul Medeniyet Univers
 
 
 
-Monday  1:30 pm @B501
+Wednesday  8:30 pm @B501
 
 Basic C and systems programming skills are required: 
 *   BIL 121 C Programming,      
@@ -68,17 +68,16 @@ This course introduces students to the concepts of operating systems and provide
     
 
 ## Homeworks and exams
-*   Assigned via classroom.google.com      
-*   4-5 HWs: includes programming assignments that may require compiling and configuring Linux-kernel, adding system calls to kernel that reads kernel structures and copies this info to user programs, changing kernel parameters or programs, adding new modules, /proc file system, and device drivers    
+*   Assigned via classroom.google.com or from github    
+*   4-5 HWs **(not mandatory)**: includes programming assignments that may require compiling and configuring Linux-kernel, adding system calls to kernel that reads kernel structures and copies this info to user programs, changing kernel parameters or programs, adding new modules, /proc file system, and device drivers    
 *   No late submission    
 *   Submissions through classroom.google.com
 *   1-midterm    
 *   1-final
   
-## Grading  
-*   30% homework    
-*   30% midterm exam    
-*   40% final exam
+## Grading      
+*   40% midterm exam    
+*   60% final exam
     
 ## Discussions
 For the assignment submission/grading and discussions, we will use [https://classroom.google.com](https://classroom.google.com/) and for public discussions, we will use [https://piazza.com](https://piazza.com/) for this course.  In discussions and questions:
