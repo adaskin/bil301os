@@ -79,7 +79,20 @@ This course introduces students to the concepts of operating systems and provide
 ## Grading      
 *   40% midterm exam    
 *   60% final exam
-    
+*   
+### **Grade Letters**
+- I will use university's letters.. 
+- but **if the distribution is not "ideal"**, I may adapt something similar to following
+  - $> 90$ or $\approx$ top 5-10% AA
+  - $<35$ is FF.
+  - For a median $x$ and a standard deviation $2s$ (we use half)
+    - BA: $\approx[x+3s, x+4s)$ 
+    - BB: $\approx[x+2s, x+3s]$ 
+    - BC: $\approx[x+1s, x+2s)$ 
+    - CC: $\approx[x-1s, x+1s)$ 
+    - DC: $\approx[x-2s, x-1s)$ 
+    - Depending on the value of $s$ and $x$, some slight changes may occur...  
+
 ## Discussions
 For the assignment submission/grading and discussions, we will use [https://classroom.google.com](https://classroom.google.com/) and for public discussions, we will use [https://piazza.com](https://piazza.com/) for this course.  In discussions and questions:
 
