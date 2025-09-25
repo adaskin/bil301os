@@ -34,7 +34,12 @@ This course introduces students to the concepts of operating systems and provide
     *   Testing Linux: [https://linux-test-project.github.io/](https://linux-test-project.github.io/)
         
 ## Weekly topics and lecture notes
-1. Chapter 1: Introduction  [⟶1intro.pdf](lectures/1intro.pdf) 
+* Week-1:
+  1. Administrivia [⟶0administrivia.pdf](lectures/0administrivia.pdf)
+  2. Intro: running a software on a machine [⟶0intro-os-vms-running-sw.pdf](lectures/0intro-os-vms-running-sw.pdf)
+     1. An extra: How to interact with OS: some terminal commands [⟶0intro-how-to-interact-with-os](lectures/0intro-how-to-interact-with-os)
+  3. Chapter 1: Introduction to OS  [⟶1intro.pdf](lectures/1intro.pdf) 
+
 2. Chapter 2: Operating System Services-structures-linkers/loaders  [⟶2services-structs.pdf](lectures/2services-structs.pdf) 
 3. Chapter 3: Processes     [⟶3processes.pdf](lectures/3processes.pdf) 
 4. Chapter 4: Threads & Concurrency   [⟶4concurrency-threads.pdf](lectures/4concurrency-threads.pdf)   
